@@ -17,10 +17,6 @@ This project applies supervised machine learning models to predict passenger sur
 - Feature Importance
 - Correlation Matrix
 
-##  SHAP Explainability
-
-SHAP values were used to understand model decisions and improve transparency.
-
 ##  Preprocessing
 
 - Imputation (median for Age/Fare)
