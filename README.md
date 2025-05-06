@@ -2,12 +2,6 @@
 
 This project applies supervised machine learning models to predict passenger survival from the Titanic disaster. It uses structured data from Kaggle and includes preprocessing, model evaluation, feature importance analysis, and interpretability with SHAP values.
 
-##  Contents
-
-- `titanic_analysis.ipynb` — Jupyter Notebook with all modeling steps and visualizations
-- `figures/` — folder with correlation matrix, ROC curve, confusion matrix, and feature importance plots
-- `final_report.docx` — academic paper version of the project
-- `requirements.txt` — list of Python libraries used
 
 ##  Models Used
 
