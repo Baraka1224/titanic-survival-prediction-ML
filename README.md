@@ -103,10 +103,4 @@ This project helped me build a complete ML pipeline from data exploration to eva
 - Removed typos and improved flow in written report
 
 ---
-## ▶ How to Run
-
-1. **Clone the repository:**
-```bash
-git clone https://github.com/Baraka1224/titanic-survival-prediction-ML.git
-cd titanic-survival-prediction-ML
 
