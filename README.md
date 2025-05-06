@@ -26,6 +26,11 @@ SHAP values were used to understand model decisions and improve transparency.
 - Imputation (median for Age/Fare)
 - One-hot encoding (for categorical variables)
 - Z-score normalization (for numerical variables)
+  
+- ## Hyperparameter Tuning
+GridSearchCV with 3-fold cross-validation was used to optimize:
+- `max_depth` and `n_estimators` for Random Forest  
+- `max_depth` for Decision Tree
 
 ##  Results
 
