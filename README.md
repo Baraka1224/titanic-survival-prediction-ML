@@ -89,7 +89,7 @@ All visuals are included in the `figures/` folder of this repository.
 
 ## Reflections
 
-This project helped me build a complete ML pipeline from data exploration to evaluation and interpretation. Although I originally planned to include SHAP values, I focused on visual tools like feature importance and ROC curves to support interpretability.
+This project helped me build a complete ML pipeline from data exploration to evaluation and interpretation. I focused on visual tools like feature importance and ROC curves to support interpretability.
 
 ###  What I Learned:
 - The importance of data cleaning before modeling
